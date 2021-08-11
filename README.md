@@ -13,3 +13,4 @@
 >> sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
 
 >> Iniciar ZSH por default es necesario agregar la siguiente linea al archivo ~/.bashrc
+>> exec zsh
