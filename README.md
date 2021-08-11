@@ -14,3 +14,6 @@
 
 >> Iniciar ZSH por default es necesario agregar la siguiente linea al archivo ~/.bashrc
 >> exec zsh
+
+>**Guia para MD MarkDown Cheat Sheet**
+>> https://www.markdownguide.org/cheat-sheet/
